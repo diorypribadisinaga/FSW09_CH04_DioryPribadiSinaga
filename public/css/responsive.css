@@ -1,0 +1,70 @@
+@media only screen and (min-width:300px) and (max-width:667px) {
+    .section-sewa .container {
+        width: auto;
+    }
+
+    footer .container .row .col {
+        margin: 12px;
+        width: 100%;
+    }
+
+    .section-why .container .col {
+        margin-bottom: 3px;
+        width: 100%;
+    }
+
+
+    .section-home .container-fluid img.gambar {
+        /* width: 330px; */
+        max-width: 100%;
+        height: auto;
+        text-align: right;
+        float: right;
+    }
+
+    .section-service .container img.gambar {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .section-testi .card .card-body {
+        display: block;
+    }
+
+    .section-testi .card img.gambar {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .section-why .row .col {
+        margin: 5px;
+    }
+}
+
+@media only screen and (max-width:283px) {
+
+
+    .section-home .container-fluid img.gambar {
+        max-width: 100%;
+        height: auto;
+        text-align: right;
+    }
+
+    .section-service .container img.gambar {
+        max-width: 100%;
+        height: auto;
+    }
+
+}
+
+@media only screen and (min-width:700px) and (max-width:1030px) {
+    .section-service .container img.gambar {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .section-testi .card img.gambar {
+        max-width: 100%;
+        height: auto;
+    }
+}

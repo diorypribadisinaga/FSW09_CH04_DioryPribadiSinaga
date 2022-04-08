@@ -1,0 +1,92 @@
+html {
+    overflow-x: hidden;
+}
+
+.body {
+    font-family: Helvetica;
+}
+
+.navbar {
+    background-color: #F1F3FF;
+    ;
+}
+
+.navbar li {
+    margin-right: 3px;
+    font-weight: 500;
+}
+
+.section-home {
+    background-color: #F1F3FF;
+    height: auto;
+
+}
+
+.section-testi .card {
+    background-color: #F1F3FF;
+    border: none;
+}
+
+.btn-c {
+    background-color: #5CB85F;
+    border-radius: 7px;
+
+}
+
+.ck {
+    background-color: #CFD4ED;
+    padding: 3px;
+    margin-right: 10px;
+}
+
+.mobil {
+    display: inline-block;
+    background-color: #F9CC00;
+}
+
+.murah {
+    display: inline-block;
+}
+
+.supir {
+    display: inline-block;
+    background-color: #5CB85F;
+}
+
+.jam {
+    display: inline-block;
+    background-color: #0D28A6;
+}
+
+.section-sewa .container {
+    background-color: #0D28A6;
+    max-width: 87%;
+    border-radius: 25px;
+
+}
+
+.section-sewa {
+    justify-content: end;
+}
+
+footer a {
+    display: block;
+    text-decoration: none;
+    margin-top: 5px;
+    font-size: 18px;
+    color: white;
+}
+
+footer i {
+    background-color: #0D28A6;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+footer .footer {
+    display: inline-block;
+    background-color: #0D28A6;
+    color: #0D28A6;
+    height: 37px;
+    width: 120px;
+}

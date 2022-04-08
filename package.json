@@ -1,0 +1,17 @@
+{
+  "name": "tugas",
+  "version": "1.0.0",
+  "description": "Project HTTP Server dan DOM",
+  "main": "server/index.js",
+  "author": "Fikri Rahmat Nurhidayat <fnurhidayat@binar.co.id>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.17.3"
+  }
+}
